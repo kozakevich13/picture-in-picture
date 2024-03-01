@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+#disable-button {
+  background: green;
+  color: white;
+}
+
+.disable-button-disabled:after {
+  background: red;
+  color: white;
+}
